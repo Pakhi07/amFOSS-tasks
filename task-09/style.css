@@ -17,3 +17,9 @@
     margin-right: auto;
     width: 30%;
   }
+  #pfp
+  {
+    border: 1px solid transparent;
+    border-radius: 2rem;
+    box-shadow: 10px 10px #8D8DAA;
+  }
