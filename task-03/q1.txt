@@ -1,0 +1,26 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int N,M,a=0,i;
+    cin>>N;
+    cin>>M;
+    if(N>=1 && M<=1000000)
+    {
+    if(N%2==0)
+    {
+    for (i=1;i<=M;i=i+2)
+        a++;
+         cout<<a<<"\n";
+         for(i=1;i<=M;i=i+2)
+             cout<<i<<" ";
+    }
+       else
+          cout<<"0"; 
+    }
+      else
+          cout<<"0";
+    return 0;
+}

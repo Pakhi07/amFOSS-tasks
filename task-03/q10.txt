@@ -1,0 +1,43 @@
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution 
+{
+    public static void main(String args[]) throws Exception 
+    {
+        Scanner in=new Scanner(System.in);
+        double T=in.nextDouble();
+        int i;
+            for(i=1;i<=T && i<=100000;i++)
+            {
+                double a=in.nextDouble();
+                double b=in.nextDouble();
+                double c=in.nextDouble();
+                double d=in.nextDouble();
+                double N=in.nextDouble();
+                double m=Math.pow(10,18);
+                if(a<=100 && a>=1 && b<=100 && b>=1 && c<=100 && c>=1 && d<=100 && d>=1 && N>=3 && N<=m)
+                {
+                   double f=0,j;
+                   for(j=3;j<=N;j++)
+                   {
+                    f=(c*a)+(d*b);
+                    a=b;
+                    b=f;
+                   }
+                   
+                   if(f>=1000000007)
+                       f=f%1000000007;
+                   long x=(long)f;
+                   System.out.println(x);
+                }
+            
+            
+        }
+        
+           
+    }
+}

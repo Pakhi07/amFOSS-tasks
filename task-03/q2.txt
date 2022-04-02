@@ -1,0 +1,29 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int n,p,q,a=0,b;
+    cin>>n;
+    if(n>=1 && n<=100)
+    {
+    for(p=1;p<=n;p++)
+    {
+        for(q=1;q<=p;q++)
+        {
+            b=p*q;
+            if(b==n)
+            {
+                if(p==q)
+                a++;
+                else
+                a=a+2;
+            }
+        }
+    }
+    
+    cout<<a;
+    }
+        return 0;
+}
