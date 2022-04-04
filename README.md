@@ -108,7 +108,7 @@ I am Pakhi Banchalia, from Dehradun, Uttarakhand, first year at Amrita School of
 
 </table>
 
-# My views on the task
+# My views on the tasks
 The tasks were a learning experience. There were many new things that I learned through these tasks. I learned how to construct a website and build an app which was very new to me. It was a liberating experience all in all. The tasks were challenging and that's what makes the club so exclusive and fun to join. It cultivated some self learning and awareness.
 
 # My Introduction
