@@ -101,7 +101,7 @@ I am Pakhi Banchalia, from Dehradun, Uttarakhand, first year at Amrita School of
 </tr>
 
 <tr>
-<td><a href="https://github.com/Pakhi07/amFOSS-tasks/tree/master/task-15">Task-15</a></td>
+<td>Task-15</td>
 <td>Project Euler</td>
 <td>Not Attempted</td>
 </tr>
