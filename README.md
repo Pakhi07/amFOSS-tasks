@@ -29,7 +29,7 @@ I am Pakhi Banchalia, from Dehradun, Uttarakhand, first year at Amrita School of
 </tr>
 
 <tr>
-<td>Task-03</td>
+<td><a href="https://github.com/Pakhi07/amFOSS-tasks/tree/master/task-03">Task-03</a></td>
 <td>Programming</td>
 <td>Partially(6/10)</td>
 </tr>
