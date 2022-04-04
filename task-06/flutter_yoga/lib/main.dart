@@ -105,7 +105,7 @@ class HomeScreen extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
                 const Text(
-                  'I make the funnies',
+                  'Yoga sets your soul free',
                   textAlign: TextAlign.center,
                   textScaleFactor: 1,
                 )
